@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang = "es">
+    <head>
+        <meta charset= "UTF-8">
+        <meta hhtp-equiv="X-UA-Compatible" content= "IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pagina 3</title>
+    </head>
+        <body>
+            <main>
+                <p><a href="Examen_2_JARV.html">Inicio</a></p>
+                 <h1>INFORMACION</h1>
+                <p><strong>Si quieres recibir la mejor informacion, registrate:</strong></p>
+               <section>
+                  <form action="guarda.php" method="POST">
+                  <fieldset>
+                      <table align="left">
+                      <tr>
+                        <td><label for = "nombre">Nombre</label></td>
+                        <td><input type="text" id="Nombre" name="nombre"></td>
+                      </tr>
+                      <tr>
+                        <td><label for = "PrimerA">Primer Apellido</label></td>
+                        <td><input type="text" id="PrimerA" name="PrimerA"></td>
+                      </tr>
+                      <tr>
+                        <td><label for = "SegundoA">Segundo Apellido</label></td>
+                        <td><input type="text" id="SegundoA" name="SegundoA"></td>
+                      </tr>
+                      <tr>
+                        <td><label for = "Domicilio">Domicilio</label></td>
+                        <td><input type="text" id="Domicilio" name="Domicilio"></td>
+                      </tr>
+                      <tr>
+                        <td><label for = "CP">Codigo Postal</label></td>
+                        <td><input type="text" id="CP" name="CP"></td>
+                      </tr>                            
+                      <tr>
+                        <td><label for = "Telefono">Telefono</label></td>
+                        <td><input type="text" id="Telefono" name="Telefono"></td>
+                      </tr>
+                      <tr>
+                        <td><label for = "correo">Correo</label></td>
+                        <td><input type="text" id="correo" name="correo"></td>
+                      </tr>
+                      <tr>
+                        <td><label for = "Ccorreo">Confirmar Correo</label></td>
+                        <td><input type="text" id="Ccorreo" name="Ccorreo"></td>
+                      </tr>
+                      <tr>
+                        <td><input type="reset" value="Borrar"></td>
+                        <td align="right"><input type="submit" value="Enviar"></td>
+                      </tr>
+                      </table>
+                  </fieldset>
+            </main>
+        </body>
+</html>
