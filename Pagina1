@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang = "es">
+    <head>
+        <meta charset= "UTF-8">
+        <meta hhtp-equiv="X-UA-Compatible" content= "IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pagina 1</title>
+    </head>
+        <body>
+            <h1><a href="Examen_2_JARV.html">Inicio</a></h1>
+            <h2 style="color:green;"><b>INSTITUCIONES VASCAS</b></h2>
+            <section>
+                <ul>
+                    <li>Administracion de Justicia</li>
+                    <li>Ararteko</li>
+                    <li>Asociacion de Municipios Vascos-Eudel</li>
+                    <li>Ayuntamientos</li>
+                    <li><u>Consejo de Relaciones Laborales</u></li>
+                    <li><u>Consejo Economico y Social Vasco</u></li>
+                    <li>Consejo Superior de Cooperativa de Euskadi</li>
+                    <li>Consejo Vasco de de la Abogada</li>
+                    <li>Cuerpo consular de Bilbao</li>
+                    <li>Diputacion Foral de Alava</li>
+                    <li>Diputacion Foral de Biskaia</li>
+                    <li>Diputacion Foral de Gipuzkoa</li>
+                    <li>Gobierno Vasco</li>
+                    <li>Juntas Generales de Alava</li>
+                    <li>Juntas Generales de Biskaia</li>
+                    <li>Juntas Generales de Gipuzkoa</li>
+                    <li>Parlamento Vasco</li>
+                    <li>Tribunal Vasco de Cuentas Públicas</li>
+                </ul>
+            </section>
+
+        <h1>Consejo de Relaciones Laborales</h1>
+        
+        <p>Es una institucion pública de la <strong>Comunidad Autónoma del País Vasco</strong> 
+        , integrada paritariamente confederaciones sindicales y empresariales. Sus fines basicos son dos:</p>
+        
+        <ol>
+            <li>1. Promover el encuentro y dialogo entre dichas confederaciones</li>
+            <li>2. Actuar como organo consultivo en materia sociolaboral respecto del Gobierno y del Parlamento</li>
+        </ol>
+
+        <p>Tiene naturaleza pública, personalidad juridíca propia y actúa con plena independencia en el desarrollo de sus funciones. Fue creado por la Ley 9/1981, de 30 de septiembre, si bien su regulacion actual se encuentra en la Ley 11/1997, de 27 de junio (Boletin oficial del Pais Vasco n° 142/1997, de 28 de julio).
+
+        <h1>Consejo Económico y Social Vasco</h1>
+        <p>El consejo Economico y Social Vasco es un ente consultivo del gobierno y del parlamento cuyo objetivo es hacer efectiva la participacion de los distintos intereses economicos en la politica economica del Pais Vasco. El consejo goza de personalidad juridica propia, distinta de la de la Administracion de la comunidad autonoma, con plena capacidad es independencia para el ejercicio de sus funciones
+            </p>
+        </p>
+        </body>
+</html>
